@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637943395743847949
-    m_Hash: 2989432480
+      ticks: 638517748795694347
+    m_Hash: 1210271494
   m_LockFileStatus:
     m_FilePath: C:/Users/kyleh/UnityProjects/IB-Personal-Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637943395953954178
-    m_Hash: 1323924065
+      ticks: 638517748795694347
+    m_Hash: 2425293117
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
